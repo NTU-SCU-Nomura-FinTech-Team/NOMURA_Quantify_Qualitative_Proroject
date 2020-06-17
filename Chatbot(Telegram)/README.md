@@ -1,5 +1,5 @@
 # 野村小夥伴
-## 機器人流程圖
+* ### 機器人流程圖
 ![alt text](https://telegramtest.s3.amazonaws.com/%E9%87%8E%E6%9D%91_Telegram_Chatbot_Procedure.png)
 * ### 定位
 客戶服務是聊天機器人最有影響力的領域，因此打造了一站式服務的任務機器人，搭配用戶使用場景，創造了有別於一般的任務機器人功能。
