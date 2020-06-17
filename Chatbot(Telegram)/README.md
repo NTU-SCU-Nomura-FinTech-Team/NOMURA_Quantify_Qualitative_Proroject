@@ -1,3 +1,3 @@
 # 野村小夥伴
 * ### 流程圖
-![alt text](https://drive.google.com/file/d/1QoExmStIpc3VpEkNWIvglgBwG9DK4aix/view?usp=sharing)
+![alt text](https://telegramtest.s3.amazonaws.com/%E9%87%8E%E6%9D%91_Telegram_Chatbot_Procedure.png)
