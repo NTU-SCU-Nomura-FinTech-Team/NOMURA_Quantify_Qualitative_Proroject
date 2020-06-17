@@ -23,4 +23,7 @@
   * tool/【stack】-> 儲存執行緒
   * tool/【excelize】-> 載入 Excel 文件
   
-* ### 應用流程圖
+* ### 部署流程圖
+![alt text](https://telegramtest.s3.amazonaws.com/%E9%87%8E%E6%9D%91_Telegram_Chatbot_DeploymentChart.png)
+
+
