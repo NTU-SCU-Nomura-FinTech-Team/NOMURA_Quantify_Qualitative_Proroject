@@ -28,4 +28,3 @@
 
 ### 補充説明
 * 會議紀錄於[Notion](https://www.notion.so/jieworkspace/7f0fb33a41754019b381a72902c5322f)。
-* 
